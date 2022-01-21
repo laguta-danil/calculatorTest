@@ -1,6 +1,6 @@
 export const buttons = [
   {
-    text: "C",
+    text: "AC",
     theme: "secondary",
     title: "clear",
   },
