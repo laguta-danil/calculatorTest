@@ -9,7 +9,7 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
-import { buttons } from "../components/Buttons";
+import { buttons } from "../data/Buttons";
 import calculator from "../utils/calculator";
 
 class MainScreen extends React.Component {
